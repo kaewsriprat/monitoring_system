@@ -1,0 +1,31 @@
+* {
+    font-family: 'Athiti', sans-serif;
+}
+
+aside {
+    z-index: 100 !important;
+}
+
+nav {
+    z-index: 99 !important;
+}
+
+.swal2-popup {
+    z-index: 99999;
+}
+
+.swal-label-danger {
+    background-color: #ffe0db !important;
+    color: #ff5722 !important;
+    width: auto !important;
+}
+
+.swal-label-danger:hover {
+    background-color: #ff5722 !important;
+    color: #fff !important;
+}
+
+.swal-label-primary {
+    background-color: #595cd9 !important;
+    width: auto !important;
+}
